@@ -43,6 +43,7 @@ npm start
 
 ### Todos
 
+- Lint violentmonkey script for CSS selectors
 - Full automation for all the boards backups
 - Grabing mechanism of lazy loaded DOM nodes on scrolled pages. This should happen by playwright itself. Maybe intersection API could be used or something else.
 - Shift this whole thing to postgres. Introduce context awared tagging system based on ollama models for better categorization. A dedicated module will be required to re-position the files across different boards inside the `downloads` dir.
