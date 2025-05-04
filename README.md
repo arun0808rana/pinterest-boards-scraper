@@ -43,6 +43,7 @@ npm start
 
 ### Todos
 
+- Port to typescript
 - Lint violentmonkey script for CSS selectors
 - Full automation for all the boards backups
 - Grabing mechanism of lazy loaded DOM nodes on scrolled pages. This should happen by playwright itself. Maybe intersection API could be used or something else.
